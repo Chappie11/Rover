@@ -1,2 +1,1 @@
-# Chappie
 project rover
